@@ -1,7 +1,7 @@
 name = "Alice"
 age = 20
 numbers = [1, 2, 3]
-is_student = False
+is_student = True
 
 print(f"이름: {name}")
 print(f"나이: {age}")
