@@ -1,6 +1,6 @@
 import assignment
 
-def test_name():
+def test_name_type():
     assert isinstance(assignment.name, str)
 
 def test_age_type():
